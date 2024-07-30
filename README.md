@@ -20,7 +20,7 @@ This repository contains a Python Flask web application for system information d
 
 1. Clone the repository to your local machine:
 ```
-git clone [https://gitlab.com/razielsa/python-flask-cicd.git](https://github.com/RazielSa/Python-Flask-CI-CD.git)
+git clone https://gitlab.com/razielsa/python-flask-cicd.git](https://github.com/RazielSa/Python-Flask-CI-CD.git
 ```
 
 2. Navigate to the project directory:
